@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">TokCoin Scanner</string>
+    <string name="nav_scanner">Scanner</string>
+    <string name="nav_gifts">Live Gifts</string>
+    <string name="nav_calculator">Calculator</string>
+    <string name="nav_chest">Treasure Box</string>
+    <string name="nav_history">Saved Scans</string>
+    
+    <!-- Scanner Tab -->
+    <string name="scanner_title">TikTok Coin Scanner</string>
+    <string name="scanner_subtitle">Scan TikTok Live screenshots or stream frames to detect gifts &amp; calculate total coins</string>
+    <string name="btn_pick_screenshot">Select Live Screenshot</string>
+    <string name="btn_sample_scan">Try Sample Live Stream</string>
+    <string name="scanning_status">Scanning image for TikTok gifts &amp; coins…</string>
+    <string name="scan_result_title">Scan Detection Results</string>
+    <string name="detected_gifts_label">Detected Gifts</string>
+    <string name="total_coins_detected">Total Coins Detected</string>
+    <string name="creator_diamonds">Creator Diamonds</string>
+    <string name="est_creator_payout">Estimated Creator Net Payout</string>
+    <string name="est_buyer_cost">Estimated Sender Cost</string>
+    <string name="btn_save_session">Save Scan Session</string>
+    <string name="session_saved_msg">Scan session saved to history!</string>
+    <string name="no_image_selected">No screenshot selected yet. Pick an image or test a sample stream frame.</string>
+    <string name="quick_add_label">Quick Add Gift to Current Live</string>
+
+    <!-- Gift Counter / Catalog -->
+    <string name="gift_catalog_title">TikTok Gift Catalog &amp; Scanner</string>
+    <string name="gift_catalog_subtitle">Tap gifts to instantly scan &amp; tally live stream gifts</string>
+    <string name="filter_all">All</string>
+    <string name="filter_popular">Popular</string>
+    <string name="filter_elite">Elite / High Value</string>
+    <string name="filter_universe">Legendary</string>
+    <string name="coins_unit">%1$,d Coins</string>
+    <string name="diamonds_unit">%1$,d Diamonds</string>
+    <string name="btn_reset_tally">Reset Counter</string>
+    <string name="tally_summary_coins">Total Live Coins: %1$,d</string>
+    <string name="tally_summary_cash">Estimated Value: %1$s</string>
+
+    <!-- Calculator -->
+    <string name="calc_title">Coin &amp; Diamond Value Converter</string>
+    <string name="calc_subtitle">Convert TikTok Coins into Diamonds and real-world cash (EUR / USD / GBP)</string>
+    <string name="input_coins_label">Enter TikTok Coins</string>
+    <string name="preset_coins_label">Popular Coin Bundles</string>
+    <string name="calc_rule_info">TikTok Creator Payout Rule: 1 Coin = 1 Diamond. TikTok pays creators approx. $0.005 USD per Diamond (50% creator cut). 10,000 Coins ≈ 10,000 Diamonds ≈ $50.00 USD.</string>
+    <string name="currency_eur">EUR (€)</string>
+    <string name="currency_usd">USD ($)</string>
+    <string name="currency_gbp">GBP (£)</string>
+    <string name="payout_breakdown">Financial Breakdown</string>
+    <string name="sender_paid">Sender Coin Purchase Cost</string>
+    <string name="tiktok_share">TikTok Platform Share (~50%)</string>
+    <string name="creator_cut">Creator Net Earnings (~50%)</string>
+
+    <!-- Treasure Box / Chest -->
+    <string name="chest_title">Treasure Box &amp; Chest Tracker</string>
+    <string name="chest_subtitle">Track TikTok Live coin drop chests, countdown timers &amp; lucky draw odds</string>
+    <string name="chest_total_coins">Chest Coins Pool</string>
+    <string name="chest_participants">Estimated Viewers / Clickers</string>
+    <string name="chest_timer_label">Drop Countdown Timer</string>
+    <string name="btn_start_chest_timer">Start Timer</string>
+    <string name="btn_reset_chest_timer">Reset Timer</string>
+    <string name="chest_alert_ready">Treasure Box is dropping now! Tap open in TikTok Live!</string>
+    <string name="chest_stat_avg_win">Average Expected Coins per Person</string>
+    <string name="chest_stat_speed">Drop Speed &amp; Competition</string>
+
+    <!-- History -->
+    <string name="history_title">Saved Scan Sessions</string>
+    <string name="history_empty">No saved scan sessions yet. Scan a stream or tally gifts to save records here.</string>
+    <string name="btn_clear_history">Clear All History</string>
+    <string name="confirm_clear">Are you sure you want to clear all saved scans?</string>
+    <string name="btn_confirm">Confirm</string>
+    <string name="btn_cancel">Cancel</string>
+</resources>
